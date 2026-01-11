@@ -1,0 +1,2 @@
+backend :: uvicorn app:app --reload
+fronted :: npm start
